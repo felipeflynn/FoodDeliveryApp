@@ -11,21 +11,26 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FoodDeliveryApp">
         <activity
+            android:name=".view.user.SingUpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".view.user.AuthActivity"
+            android:exported="false" />
+        <activity
             android:name=".view.SplashActivity"
-            android:theme="@style/SplashTheme"
-            android:exported="true">
-        <intent-filter>
-            <action android:name="android.intent.action.MAIN" />
+            android:exported="true"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
-            <category android:name="android.intent.category.LAUNCHER" />
-        </intent-filter>/>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            />
         </activity>
         <activity
             android:name=".view.MainActivity"
             android:exported="true"
-            tools:ignore="Instantiatable">
-
-        </activity>
+            tools:ignore="Instantiatable" />
     </application>
 
 </manifest>
