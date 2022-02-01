@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/felip/Desktop/Android/FoodDeliveryApp/app/src/main/res/layout/activity_auth.xml" value="0.38055555555555554" />
+        <entry key="..\:/Users/felip/Desktop/Android/FoodDeliveryApp/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/felip/Desktop/Android/FoodDeliveryApp/app/src/main/res/layout/activity_main.xml" value="0.4064814814814815" />
+        <entry key="..\:/Users/felip/Desktop/Android/FoodDeliveryApp/app/src/main/res/layout/activity_sing_up.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/felip/Desktop/Android/FoodDeliveryApp/app/src/main/res/layout/fragment_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/felip/Desktop/Android/FoodDeliveryApp/app/src/main/res/layout/fragment_sing_up.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
